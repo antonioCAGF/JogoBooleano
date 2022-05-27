@@ -7,4 +7,4 @@ Uma proposta apenas para validar meu conhecimento simples com o boolean em Java
 
 	   // GitHub: @antonioCAGF
 
-         // Linkedin: https://www.linkedin.com/in/antonio-guimar%C3%A3es-007ba61a8
+          // Linkedin: https://www.linkedin.com/in/antonio-guimar%C3%A3es-007ba61a8
